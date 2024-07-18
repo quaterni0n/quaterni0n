@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...technology, blockchain, crypto and futuristic applications which will create impact on the lives of humans in a better way
 - 🌱 I’m currently learning ...blockchain and it's applications through a MIT Course by Gary Gensler
 - 💞️ I’m looking to collaborate on ... SaaS and blockchain projects
+- 🫡 I'm also learning python via replit and then will go into machine learning and eventually gen AI to work on fascinating problems for the human civilisation and provide sustainable solutions
 - 📫 How to reach me ...email me at anuacharya1989@gmail.com
 
 <!---
